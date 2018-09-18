@@ -1,0 +1,142 @@
+body {
+  background-color: lightblue;
+}
+
+
+h1{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#description {
+	font-family: helvetica;
+}
+
+#description p{
+  text-align: center;
+}
+
+#middle{
+  background-color: white;
+  width:1100px;
+}
+
+#survey-form{
+  text-align: center;
+}
+
+#place {
+	display: flex;
+	justify-content: center;
+}
+#right {
+	width: 40%;
+	/*border-style: solid;
+	border-color: red;*/
+	margin-left: 460px;
+	font-family: helvetica;
+}
+
+#age {
+	margin-left: 10px;
+}
+
+#name {
+	margin-left: -4px;
+}
+
+#second {
+	font-family: helvetica;
+	margin-left: -56px;
+}
+
+.labels {
+	margin-left: -100px;
+	font-family: helvetica;
+}
+
+.rightTab {
+
+	font-family: helvetica;
+}
+
+
+
+.radio1 {
+	margin-left: -16px;
+}
+
+.radio2 {
+	margin-left: -2px;
+}
+
+#dropdown {
+	font-family: helvetica;
+	margin-left: -170px;
+}
+
+#select {
+	font-family: helvetica;
+	margin-left: -60px;
+	
+	
+}
+
+#bottom {
+	font-family: helvetica;
+}
+
+
+#improve2 {
+	margin-left: 3px;
+}
+
+#improve3 {
+	margin-left: -2px;
+}
+
+#improve4 {
+	margin-left: -49px;
+}
+
+#improve5 {
+	margin-left: 51px;
+}
+
+#improve6 {
+	margin-left: 3px;
+}
+
+#improve7 {
+	margin-left: -80px;
+}
+#improve8 {
+	margin-left: -35px;
+}
+#improve9 {
+	margin-left: -98px;
+}
+#improve10 {
+	margin-left: -75px;
+}
+#improve11{
+	margin-left: 5px;
+}
+
+#bottom{
+	margin-left: 50px;
+}
+#comments{
+	margin-left: 10px;
+	
+}
+#click{
+	background-color: lightblue;
+	margin-bottom: 10px;
+	font-family: helvetica;
+}
+
+
+
+
+
